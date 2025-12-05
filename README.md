@@ -1,11 +1,6 @@
 # Привет! Я Lumitorus 👋[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Lumitorus&color=blue)](https://github.com/Lumitorus)
 
-
-## 📊 Статистика пока не начал публиковать открытки тут всегда будет пусто
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lumitorus&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumitorus&layout=compact&theme=dracula)
+https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif
 
 ---
 
