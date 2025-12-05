@@ -1,6 +1,6 @@
 # Привет! Я Lumitorus 👋[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Lumitorus&color=blue)](https://github.com/Lumitorus)
 
-https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif
+
 
 ---
 
